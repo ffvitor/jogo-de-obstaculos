@@ -36,7 +36,6 @@ Este projeto busca aplicar conceitos fundamentais da realidade virtual, como:
 ## 🛠️ Tecnologias Utilizadas
 
 - **Unity** (versão utilizada no desenvolvimento);
-- **C#** (linguagem de programação);
 
 ---
 
